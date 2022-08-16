@@ -1,19 +1,20 @@
 ---
 title: Manuel Fernandez
 subtitle: Geometric Art Portfolio
-image: img/88b5b059-ec48-4871-bc2c-ad4ab52765c8_1_201_a.jpeg
+image: img/timely-1-1-.jpeg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: " What is colorometry?"
+  text: The idea of expressing music geometrically is ancient. Nature is well
+    known for its connection with geometry. These and all other possible
+    applications of geometry made me think that color should  conform to
+    geometry as well. I decided to call my quest to find the connection
+    colorometry because it combines color and geometry.
 intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: What I have so far.
+  text: "I only use primary and secondary colors. Their numbers (3 and 3) and
+    combinations seem to fit well into the symbols and shapes. The other thing I
+    know is that I am just starting, there is a lot to do, but I hope to
+    continue finding clues in my studies that get me closer to the goal. "
 products:
   - image: img/timely-2.jpeg
     text: We sell green and roasted coffee beans that are sourced directly from
