@@ -1,7 +1,7 @@
 ---
 title: Manuel Fernandez
 subtitle: Geometric Art Portfolio
-image: img/timely-1-1-.jpeg
+image: img/timely-3.jpeg
 blurb:
   heading: " What is colorometry?"
   text: The idea of expressing music geometrically is ancient. Nature is well
